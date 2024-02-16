@@ -14,5 +14,4 @@
 <img width="794" alt="Screenshot 2024-02-15 at 10 24 47 PM" src="https://github.com/jasumonga17/Azure-Data-Engineering-Project/assets/76562774/93b5f525-d303-4d70-89ed-39de182fdf08">
 
 
-<img width="706" alt="Screenshot 2024-02-15 at 10 40 39 PM" src="https://github.com/jasumonga17/Azure-Data-Engineering-Project/assets/76562774/4fa75907-00a3-4c6d-881f-1c2d1d4b6dcf">
 
