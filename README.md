@@ -2,11 +2,11 @@
 
 ### Process
 
-•	Developed end-to-end data pipeline on Azure, extracting GitHub data to Gen Data Lake Storage, transforming it using Azure Databricks, and loading it into Azure Synapse Analytics.
+•	Engineered end-to-end data pipeline on Azure, proficiently extracting raw GitHub data and storing it in Azure Blob Storage containers, meticulously orchestrating the process using Azure Data Factory, including pipeline creation, validation, and monitoring.
 
-•	Led design and implementation of scalable data processing solution on Azure, utilizing Azure Blob Storage, Azure Databricks, and Azure Synapse Analytics for efficient data handling and analytics.
+•	Implemented data transformation utilizing PySpark within Azure Databricks, enhancing the raw GitHub data for analytical purposes, and seamlessly storing the transformed dataset back into Azure Blob Storage containers for further processing and analysis.
 
-• Implemented automated data ingestion pipelines with Azure Data Factory, ensuring reliable data movement and orchestration across various stages of the project.
+• Leveraged Azure Synapse Analytics to execute SQL queries on the transformed data stored in Azure Blob Storage, facilitating efficient data analysis and generating actionable insights to drive informed decision-making.
 
 <img width="804" alt="Screenshot 2024-02-15 at 10 31 41 PM" src="https://github.com/jasumonga17/Azure-Data-Engineering-Project/assets/76562774/4c2c069f-dfc1-4bd9-9eb3-8278eb2d626a">
 
