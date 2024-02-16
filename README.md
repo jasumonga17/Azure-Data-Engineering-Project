@@ -2,7 +2,7 @@
 
 ### Process:
 
-•	Developed end-to-end data pipeline on Azure, extracting GitHub data to Azure Blob Storage, transforming it using Azure Databricks, and loading it into Azure Synapse Analytics.
+•	Developed end-to-end data pipeline on Azure, extracting GitHub data to Azure Lake Storage, transforming it using Azure Databricks, and loading it into Azure Synapse Analytics.
 
 •	Led design and implementation of scalable data processing solution on Azure, utilizing Azure Blob Storage, Azure Databricks, and Azure Synapse Analytics for efficient data handling and analytics.
 
